@@ -1,5 +1,7 @@
 Data/training/Speech_Data
-Data/testing/*
+Data/testing/Audio
+Data/testing/frames
+Data/testing/angry.mp4
 weights/visual_network.h5
 weights/ensemble.pkl
 weights/audio_network.h5

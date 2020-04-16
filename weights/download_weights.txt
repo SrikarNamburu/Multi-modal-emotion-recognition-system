@@ -1,0 +1,2 @@
+Download the weights for 3 models and un-zip them in weights folder.
+Here's a link to drive folder - https://drive.google.com/open?id=1IPY_2FsiTi112v09ld1uHLfxDPGUME0M

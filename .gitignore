@@ -1,0 +1,7 @@
+Data/training/Speech_Data
+Data/testing/*
+weights/visual_network.h5
+weights/ensemble.pkl
+weights/audio_network.h5
+Data/training/Visual_Data
+Data/training/haarcascade_frontalface_default.xml
